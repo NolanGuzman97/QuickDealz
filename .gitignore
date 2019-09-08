@@ -1,0 +1,4 @@
+/QDEnv/*
+*.log
+__pycache__
+/.vscode/*
