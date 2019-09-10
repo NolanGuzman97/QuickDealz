@@ -7,6 +7,8 @@ Prerequisites:
 2. Install VisualStudioCode(Chosen IDE)
 3. Install Xcode(can utilize the simulator for testing if needed)
 4. Install Docker and Docker-Compose
+5. HIGHLY reccomend a linux based OS (e.g macOS, archLinux, Ubuntu, etc.)
+    1. If you choose the macOS route but are on windows, I reccomend following this tutorial [here](https://github.com/geerlingguy/macos-virtualbox-vm). Any questions with setting this up please ask.
 
 Setup? (DEFINETLEY A work in progress)
 
